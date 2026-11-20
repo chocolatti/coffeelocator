@@ -79,7 +79,7 @@ let coffeeShops = [
     },
 
     {
-        name: "Coffee Project New York",
+        name: "Coffee Project",
         address: "78 Rockwell Pl, Brooklyn, NY 11217",
         lat: 40.68789019717553, 
         lon: -73.97939403068285
