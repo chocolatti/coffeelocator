@@ -76,7 +76,7 @@ let coffeeShops = [
         address:"57 Smith St, Brooklyn, NY 11201",
         lat: 40.69051587836612, 
         lon: -73.98828797305208
-    }
+    },
 
     {
         name: "Coffee Project New York",
